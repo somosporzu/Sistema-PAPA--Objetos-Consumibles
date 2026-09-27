@@ -1,0 +1,6 @@
+{
+  "name": "P.A.P.A. Creador de Consumibles",
+  "description": "Creador y gestor oficial de objetos consumibles para el Sistema P.A.P.A. (Pociones, ungüentos, talismanes, pergaminos y bombas) con catálogo de conjuros del Grimorio y cálculo de costes en Lectos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
